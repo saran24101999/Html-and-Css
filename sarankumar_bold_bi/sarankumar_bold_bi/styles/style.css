@@ -1,0 +1,272 @@
+
+ul{
+    background-color: rgb(127, 174, 245);
+    height: 50px;
+
+}
+li:hover{
+    background-color: chartreuse;
+    background-color: 80%;
+}
+#first{
+    background-color: blueviolet;
+    position: fixed;
+    padding-left: 33px;
+    padding-bottom: 50px;
+}
+.detail:hover{
+    border-color: #e26230;
+}
+.detail:active{
+    border-color: #df4d14;
+}
+.heading{
+    color: #162a52;
+    font-size: 25px;
+    line-height: 30px;
+    font-family: CarosBold, sans-serif;
+}
+.image{
+    width: 60px;
+    height: 55.1px;
+}
+.text{
+    color: #1d4699;
+    font-family: "Caros", Caros;
+    font-size: 16px;
+    line-height: 24px;
+}
+.number{
+    font-weight: 700;
+}
+.div3{
+    position: absolute;
+    margin-left: 10rem;
+    margin-top: 30rem;
+}
+#supporticon{
+    margin-left: 8px;
+    width: 16px;
+    padding-bottom: 2px;
+}
+.div4{
+    color: #334c7e;
+    font-size: 25px;
+    line-height: 30px;
+    font-family: CarosBold, sans-serif;
+    text-align: center;
+}
+.div5{
+    color: #40537a;
+    font-family: "Caros", Caros;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+.getsupport{
+    font-family: Caros;
+    font-size: 16px;
+    color: #f58e65;
+    letter-spacing: 0;
+    line-height: 30px;
+    padding-top: 16px;
+    text-decoration: none;
+    padding-top: 15px;
+}
+ul li{
+    display: inline-block;
+    padding-right: 80px;
+}
+ul li:hover{
+    color: #be7558;
+}
+ul{
+    float: right;
+}
+.form{
+    text-align: center;
+}
+
+
+input[type=submit] {
+    width: 200px;
+    height: 55px;
+    line-height: 55px;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 15px 0;
+    padding: 0 30px;
+    background-color: #b44827;
+    color: #fff;
+    border: 0;
+    box-shadow: 0 5px 15px 0 rgb(0 0 0 / 5%);
+    transition: all .3s;
+    outline: none;
+}
+input[type=submit]:hover{
+    background-color: #fff0ea;
+    color: #ff6d34;
+}
+
+#callsales{
+    background-image: url(../images/Vector-1.png);
+    position: absolute;
+    margin-left: 10rem;
+    margin-top: 15rem;
+}
+#div2{
+    position:absolute;
+    margin-top: 2rem;
+    margin-left: 10rem;
+}
+.formblock{
+    position: absolute;
+    margin-left: 40rem;
+    border-color: rgb(12, 12, 14);
+    border: 1px solid rgb(203, 203, 211);
+}
+#div1{
+    background-image: url("../images/Vector-1.png");
+}
+#div6{
+    position:fixed;
+    margin-top: 37rem;
+    margin-left: 90rem;
+}
+#div7{
+    position: fixed;
+    margin-top: 29rem;
+    margin-left: 80rem;
+}
+.secondpart{
+    position: absolute;
+    margin-top: 47rem;
+    margin-left: 40rem;
+}
+.detail{
+    height: 40px;
+    width: 350px;
+    margin-bottom: 15px;
+    border-color: lightgray;
+}
+.msg{
+    height: 125px;
+    width: 350px;
+    margin-bottom: 15px;
+    border-color: lightgray;
+}
+.msg:hover{
+    border-color: #FF4800;
+}
+.msg:active{
+    border-color: #FF4800;
+}
+
+.table1{
+    position: absolute;
+    margin-top: 54rem;
+    margin-left: 10rem;
+}
+.table2{
+    position: absolute;
+    margin-top: 54rem;
+    margin-left: 35rem;
+}
+.table3{
+    position: absolute;
+    margin-top: 54rem;
+    margin-left: 60rem;
+}
+.table4{
+    position: absolute;
+    margin-top: 80rem;
+    margin-left: 10rem;
+}
+.table5{
+    position: absolute;
+    margin-top: 80rem;
+    margin-left: 35rem;
+}
+.div8{
+    color: gray;
+    position: absolute;
+    margin-top: 105rem;
+    margin-left: 33rem;
+}
+.div7{
+    position:absolute;
+    left: -21%;
+    margin-top: 105rem;
+    margin-left: 36rem;
+}
+.div9{
+    position: absolute;
+    margin-top: 120rem;
+    margin-left: 10rem;
+}
+.foothead{
+    font-weight: bolder;
+}
+.foot1{
+    position: absolute;
+    margin-top: 118rem;
+    margin-left: 40rem;
+}
+.foot2{
+    position: absolute;
+    margin-top: 118rem;
+    margin-left: 55rem;
+}
+.foot3{
+    position: absolute;
+    margin-top: 118rem;
+    margin-left: 70rem;
+}
+.foot4{
+    position: absolute;
+    margin-top: 125rem;
+    margin-left: 40rem;
+}
+.foot5{
+    position: absolute;
+    margin-top: 129rem;
+    margin-left: 55rem;
+}
+.foot6{
+    position: absolute;
+    margin-top: 127rem;
+    margin-left: 70rem;
+}
+.footfollowimages{
+    
+    height: auto;
+    width: 2rem;
+}
+.foot7{
+    position: absolute;
+    margin-top: 132rem;
+    margin-left: 70rem;
+}
+.icon{
+   margin-left: 2px;
+}
+.copyright{
+    position: absolute;
+    margin-top: 145rem;
+    margin-left: 25rem;
+}
+.colorred{
+    color:#FF4800;
+}
+.colorred:hover{
+    color:brown;
+}
+.tableheading{
+    color: #283a5e;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+.hoverred:hover{
+    color:#d36a41;
+}
